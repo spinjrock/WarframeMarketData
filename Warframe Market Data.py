@@ -1,3 +1,5 @@
+#Spencer Oswald
+
 from openpyxl import load_workbook
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
